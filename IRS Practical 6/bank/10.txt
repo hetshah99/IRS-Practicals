@@ -1,0 +1,1 @@
+When a cheque only has a drawer’s signature and all the other fields are left empty, then such a type of a cheque is called a blank cheque. The above mentioned types of cheques are the most commonly known and used in the Indian banking industry.

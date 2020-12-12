@@ -1,0 +1,18 @@
+Blockchain, which began to emerge as a real-world tech option in 2016 and 2017, is poised to change IT in much the same way open-source software did a quarter century ago. And in the same way Linux took more than a decade to become a cornerstone in modern application development, Blockchain will likely take years to become a lower cost, more efficient way to share information and data between open and private business networks.
+
+Based on a peer-to-peer (P2P) topology, blockchain is a distributed ledger technology (DLT) that allows data to be stored globally on thousands of servers – while letting anyone on the network see everyone else's entries in near real-time. That makes it difficult for one user to gain control of, or game, the network.
+
+[ Further reading: What is FinTech (and how has it evolved)? ]
+However, in highly publicized incidents over the five years, blockchains have been hacked, typically through a cryptocurrency application such as bitcoin. Smaller blockchains with fewer nodes (or computers) have also been susceptible to fraud, with would-be thieves gaining control of the majority of nodes.
+
+For businesses, however, blockchain holds the promise of transactional transparency – the ability to create secure, real-time communication networks with partners around the globe to support everything from supply chains to payment networks to real estate deals and healthcare data sharing.
+
+Recent hype around this relatively new technology is real because DLT, in essense, represents a new paradigm for how information is shared; tech vendors and enterprises, not surprisingly have rushed to learn how they can use the distributed ledger technology (DLT) to save time and admin costs. Numerous companies have already rolled out, or are planning to launch, pilot programs and real-world projects across a variety of industries - everything from financial technology (FinTech) and healthcare to mobile payments and global shipping.
+
+So while blockchain isn't going to replace traditional corporate relational databases, it does open new doors for the movement and storage of transactional data inside and outside of global enterprises.
+
+Driven mainly by financial technology (fintech) investments, blockchain has seen a fast uptick in adoption for application development and pilot tests in a number of industries and will generate more than $10.6 billion in revenue by 2023, according to a report from ABI Research. Most of that revenue figure is expected to come from software sales and services.
+
+Blockchain adoption is expected be steady, as the changes it brings gain momentum, according Karim Lakhani, a principal investigator of the Crowd Innovation Lab and NASA Tournament Lab at the Harvard Institute for Quantitative Social Science. "Conceptionally, this is TCP/IP applied to the world of business and transactions," Lakhani said. "In the '70s and '80s, TCP/IP was not imaginable to be as robust and scalable as it was. Now, we know that TCP/IP allows us all this modern functionality that we take for granted on the web.
+
+"Blockchain has the same potential." 
